@@ -7,7 +7,7 @@
 
 # Ecommerce Bookstore  
 
-An eCommerce platform for buying and selling books, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+An eCommerce platform for buying and selling books, built using the MERN stack (MongoDB, Express.js, React.js, Node.js, Vite.js).
 
 ## Table of Contents
 
